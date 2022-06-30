@@ -598,6 +598,7 @@ ul {
     border: none;
     
     font-size: 16px;
+    font-weight: 700;
     line-height: 1.88;    
     text-align: center;
     letter-spacing: 0.06em;
@@ -952,7 +953,7 @@ ul {
 
 .consent-link {
     color: var(--accent-color);
-    margin-left: 4px;
+    
 }
 
 .form-button {
@@ -967,6 +968,7 @@ ul {
     border: none;
         
     font-size: 16px;
+    font-weight: 700;
     line-height: 1.88;
     align-items: center;
     text-align: center;
